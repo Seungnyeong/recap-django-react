@@ -68,3 +68,9 @@ export interface IUser {
   language: string;
   currency: string;
 }
+
+export interface IReview {
+  payload: string;
+  rating: number;
+  user: IRoomOwner;
+}
