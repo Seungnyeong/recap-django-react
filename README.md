@@ -5,3 +5,4 @@
 3. typscript
 
 ![1번](./images/1.png)
+![2번](./images/2.png)
